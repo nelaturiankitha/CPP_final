@@ -1,0 +1,11 @@
+body {
+    background-color: #fde2e4;
+    font-family: Arial, sans-serif;
+}
+
+.content-section {
+    background: #fff1e6;
+    margin: 40px;
+    padding: 1.5rem 1.5rem;
+    border-radius: 10px;
+}

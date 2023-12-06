@@ -1,0 +1,10 @@
+{% extends "../layout.html" %}
+{% load crispy_forms_tags %} 
+{% load static %}
+{% block content %}
+<div class="content-section">
+    <small class="text-muted">
+        Bye! <a href="{% url 'login' %}">Wanna come back in?</a>
+    </small>
+</div>
+{% endblock %}
